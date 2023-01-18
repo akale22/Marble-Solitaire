@@ -1,4 +1,4 @@
-package marblesolitaire.controller;
+package controller;
 
 import java.io.IOException;
 import java.util.ArrayList;

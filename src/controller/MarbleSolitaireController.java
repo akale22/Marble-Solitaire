@@ -1,4 +1,4 @@
-package marblesolitaire.controller;
+package controller;
 
 /**
  * This interface represents a controller for a game of Marble Solitaire which facilitates

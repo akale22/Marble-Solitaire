@@ -1,4 +1,4 @@
-package marblesolitaire.model;
+package model;
 
 /**
  * An abstract class for a marble solitaire model with fields and methods that are common to all

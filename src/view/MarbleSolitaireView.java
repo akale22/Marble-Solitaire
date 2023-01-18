@@ -1,4 +1,4 @@
-package marblesolitaire.view;
+package view;
 
 import java.io.IOException;
 

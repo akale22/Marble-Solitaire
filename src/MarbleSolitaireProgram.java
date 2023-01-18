@@ -1,6 +1,3 @@
-package cs3500.marblesolitaire;
-
-
 import java.io.InputStreamReader;
 
 import marblesolitaire.controller.MarbleSolitaireController;

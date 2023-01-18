@@ -1,4 +1,4 @@
-package marblesolitaire.model;
+package model;
 
 /**
  * This class represents an implementation of the model of a variant of Marble Solitaire, which is

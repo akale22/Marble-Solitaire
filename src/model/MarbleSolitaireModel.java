@@ -1,4 +1,4 @@
-package marblesolitaire.model;
+package model;
 
 /**
  * This interface represents the operations offered by the marble solitaire

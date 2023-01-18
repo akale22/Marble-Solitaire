@@ -1,4 +1,4 @@
-package marblesolitaire.model;
+package model;
 
 /**
  * This interface represents operations that can be used to monitor the state of a marble solitaire
