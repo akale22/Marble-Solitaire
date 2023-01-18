@@ -3,19 +3,18 @@ import org.junit.Test;
 
 import java.io.StringReader;
 
-import cs3500.marblesolitaire.model.hw04.EuropeanSolitaireModel;
-import cs3500.marblesolitaire.model.hw04.TriangleSolitaireModel;
-import cs3500.marblesolitaire.view.TriangleSolitaireTextView;
+import marblesolitaire.controller.MarbleSolitaireController;
+import marblesolitaire.controller.MarbleSolitaireControllerImpl;
+import marblesolitaire.view.MarbleSolitaireTextView;
+import marblesolitaire.view.MarbleSolitaireView;
+import marblesolitaire.view.TriangleSolitaireTextView;
 import helpers.ConfirmInputsMock;
-import cs3500.marblesolitaire.controller.MarbleSolitaireController;
 import helpers.CorruptAppendable;
 import helpers.CorruptReadable;
-import cs3500.marblesolitaire.model.hw02.EnglishSolitaireModel;
-
-import cs3500.marblesolitaire.controller.MarbleSolitaireControllerImpl;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModel;
-import cs3500.marblesolitaire.view.MarbleSolitaireTextView;
-import cs3500.marblesolitaire.view.MarbleSolitaireView;
+import marblesolitaire.model.EnglishSolitaireModel;
+import marblesolitaire.model.EuropeanSolitaireModel;
+import marblesolitaire.model.MarbleSolitaireModel;
+import marblesolitaire.model.TriangleSolitaireModel;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;

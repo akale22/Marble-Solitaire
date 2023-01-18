@@ -3,14 +3,13 @@ import org.junit.Test;
 
 import java.io.IOException;
 
-
-import cs3500.marblesolitaire.model.hw04.EuropeanSolitaireModel;
-import cs3500.marblesolitaire.model.hw02.EnglishSolitaireModel;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModel;
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelState;
-import cs3500.marblesolitaire.view.MarbleSolitaireTextView;
-import cs3500.marblesolitaire.view.MarbleSolitaireView;
+import marblesolitaire.view.MarbleSolitaireTextView;
+import marblesolitaire.view.MarbleSolitaireView;
 import helpers.CorruptAppendable;
+import marblesolitaire.model.EnglishSolitaireModel;
+import marblesolitaire.model.EuropeanSolitaireModel;
+import marblesolitaire.model.MarbleSolitaireModel;
+import marblesolitaire.model.MarbleSolitaireModelState;
 
 import static org.junit.Assert.assertEquals;
 

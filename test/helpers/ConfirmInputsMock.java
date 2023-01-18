@@ -1,6 +1,6 @@
 package helpers;
 
-import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModel;
+import marblesolitaire.model.MarbleSolitaireModel;
 
 /**
  * A mock model class that confirms whether the controller is sending the correct inputs to the
