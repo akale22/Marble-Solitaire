@@ -3,21 +3,22 @@ import org.junit.Test;
 
 import java.io.StringReader;
 
-import marblesolitaire.controller.MarbleSolitaireController;
-import marblesolitaire.controller.MarbleSolitaireControllerImpl;
-import marblesolitaire.view.MarbleSolitaireTextView;
-import marblesolitaire.view.MarbleSolitaireView;
-import marblesolitaire.view.TriangleSolitaireTextView;
+import controller.MarbleSolitaireController;
+import controller.MarbleSolitaireControllerImpl;
 import helpers.ConfirmInputsMock;
 import helpers.CorruptAppendable;
 import helpers.CorruptReadable;
-import marblesolitaire.model.EnglishSolitaireModel;
-import marblesolitaire.model.EuropeanSolitaireModel;
-import marblesolitaire.model.MarbleSolitaireModel;
-import marblesolitaire.model.TriangleSolitaireModel;
+import model.EnglishSolitaireModel;
+import model.EuropeanSolitaireModel;
+import model.MarbleSolitaireModel;
+import model.TriangleSolitaireModel;
+import view.MarbleSolitaireTextView;
+import view.MarbleSolitaireView;
+import view.TriangleSolitaireTextView;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertEquals;
 
 /**
  * A JUnit test class for {@link MarbleSolitaireControllerImpl}s.

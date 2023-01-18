@@ -1,14 +1,14 @@
 import java.io.InputStreamReader;
 
-import marblesolitaire.controller.MarbleSolitaireController;
-import marblesolitaire.controller.MarbleSolitaireControllerImpl;
-import marblesolitaire.view.MarbleSolitaireTextView;
-import marblesolitaire.view.MarbleSolitaireView;
-import marblesolitaire.view.TriangleSolitaireTextView;
-import marblesolitaire.model.EnglishSolitaireModel;
-import marblesolitaire.model.EuropeanSolitaireModel;
-import marblesolitaire.model.MarbleSolitaireModel;
-import marblesolitaire.model.TriangleSolitaireModel;
+import controller.MarbleSolitaireController;
+import controller.MarbleSolitaireControllerImpl;
+import model.EnglishSolitaireModel;
+import model.EuropeanSolitaireModel;
+import model.MarbleSolitaireModel;
+import model.TriangleSolitaireModel;
+import view.MarbleSolitaireTextView;
+import view.MarbleSolitaireView;
+import view.TriangleSolitaireTextView;
 
 /**
  * Represents a program to run and play a game of marble solitaire.

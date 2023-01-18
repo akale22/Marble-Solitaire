@@ -1,13 +1,13 @@
 import org.junit.Before;
 import org.junit.Test;
 
-import marblesolitaire.model.MarbleSolitaireModel;
-import marblesolitaire.model.MarbleSolitaireModelState;
-import marblesolitaire.model.TriangleSolitaireModel;
+import model.MarbleSolitaireModel;
+import model.MarbleSolitaireModelState;
+import model.TriangleSolitaireModel;
 
-import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertEquals;
 
 /**
  * A JUnit test class for {@link TriangleSolitaireModel}s.

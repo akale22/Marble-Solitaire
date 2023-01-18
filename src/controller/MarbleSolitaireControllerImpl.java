@@ -4,8 +4,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import marblesolitaire.model.MarbleSolitaireModel;
-import marblesolitaire.view.MarbleSolitaireView;
+import model.MarbleSolitaireModel;
+import view.MarbleSolitaireView;
 
 /**
  * An implementation of a controller for a Marble Solitaire game which allows the user to play.

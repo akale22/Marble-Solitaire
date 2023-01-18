@@ -1,13 +1,13 @@
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
-
 import org.junit.Before;
 import org.junit.Test;
 
-import marblesolitaire.model.EuropeanSolitaireModel;
-import marblesolitaire.model.MarbleSolitaireModel;
-import marblesolitaire.model.MarbleSolitaireModelState;
+import model.EuropeanSolitaireModel;
+import model.MarbleSolitaireModel;
+import model.MarbleSolitaireModelState;
+
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertEquals;
 
 /**
  * A JUnit test class for {@link EuropeanSolitaireModel}s.

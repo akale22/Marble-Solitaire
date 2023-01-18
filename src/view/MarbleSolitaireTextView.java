@@ -1,6 +1,6 @@
 package view;
 
-import marblesolitaire.model.MarbleSolitaireModelState;
+import model.MarbleSolitaireModelState;
 
 /**
  * A class representing the view component of a Marble solitaire game. Contains methods to

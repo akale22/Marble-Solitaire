@@ -1,6 +1,6 @@
 package helpers;
 
-import marblesolitaire.model.MarbleSolitaireModel;
+import model.MarbleSolitaireModel;
 
 /**
  * A mock model class that confirms whether the controller is sending the correct inputs to the

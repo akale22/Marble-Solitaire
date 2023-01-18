@@ -3,12 +3,12 @@ import org.junit.Test;
 
 import java.io.IOException;
 
-import marblesolitaire.view.MarbleSolitaireView;
-import marblesolitaire.view.TriangleSolitaireTextView;
 import helpers.CorruptAppendable;
-import marblesolitaire.model.MarbleSolitaireModel;
-import marblesolitaire.model.MarbleSolitaireModelState;
-import marblesolitaire.model.TriangleSolitaireModel;
+import model.MarbleSolitaireModel;
+import model.MarbleSolitaireModelState;
+import model.TriangleSolitaireModel;
+import view.MarbleSolitaireView;
+import view.TriangleSolitaireTextView;
 
 import static org.junit.Assert.assertEquals;
 

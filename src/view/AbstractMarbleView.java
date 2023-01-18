@@ -2,7 +2,7 @@ package view;
 
 import java.io.IOException;
 
-import marblesolitaire.model.MarbleSolitaireModelState;
+import model.MarbleSolitaireModelState;
 
 /**
  * An abstract class for the view of a marble solitaire game. Contains fields and methods common
